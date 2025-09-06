@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "NeoLinks - shorten your links",
+  title: "NeatLinks - shorten your links",
   description: "NeoLinks helps you shorten your links ",
 };
 

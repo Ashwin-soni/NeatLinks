@@ -10,7 +10,7 @@ export default function Home() {
           </p>
           <p className="md:px-56 text-center">
             You are on the only staright forward URL shortner
-            NeoLinks is a simple and efficient URL shortener that turns long, complex web addresses into short, easy-to-share links. It’s designed for quick access, clean tracking, and seamless sharing across platforms.
+            NeatLinks is a simple and efficient URL shortener that turns long, complex web addresses into short, easy-to-share links. It’s designed for quick access, clean tracking, and seamless sharing across platforms.
           </p>
               <div className='flex gap-3 text-white justify-start'>
                 <Link href='/shorten'><button className='bg-purple-900 rounded-lg p-3 py-2 font-bold shadow-lg'>Try Now</button></Link>
